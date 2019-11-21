@@ -19,7 +19,7 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical"
                 android:layout_marginRight="10dp"
-                android:layout_marginLeft="10dp"
+                android:layout_marginLeft="11dp"
                 >
                 <ImageView
                     android:layout_width="100dp"
